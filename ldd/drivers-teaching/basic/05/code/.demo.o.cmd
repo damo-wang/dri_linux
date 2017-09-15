@@ -1,0 +1,1 @@
+cmd_/home/wang/code/demo/drivers-teaching/basic/05/code/demo.o := ld -m elf_x86_64   -r -o /home/wang/code/demo/drivers-teaching/basic/05/code/demo.o /home/wang/code/demo/drivers-teaching/basic/05/code/test05.o 

@@ -1,0 +1,1 @@
+cmd_/home/wang/work/ok6410/Linux2.6.28/kernel/linux2.6.28/drivers/demo/led/led.ko := /usr/local/arm/4.2.2-eabi/usr/bin/arm-linux-ld -EL -r   -o /home/wang/work/ok6410/Linux2.6.28/kernel/linux2.6.28/drivers/demo/led/led.ko /home/wang/work/ok6410/Linux2.6.28/kernel/linux2.6.28/drivers/demo/led/led.o /home/wang/work/ok6410/Linux2.6.28/kernel/linux2.6.28/drivers/demo/led/led.mod.o

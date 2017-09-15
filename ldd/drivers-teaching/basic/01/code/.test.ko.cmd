@@ -1,0 +1,1 @@
+cmd_/home/wang/work/demo/drivers-teaching/basic/01/code/test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wang/work/demo/drivers-teaching/basic/01/code/test.ko /home/wang/work/demo/drivers-teaching/basic/01/code/test.o /home/wang/work/demo/drivers-teaching/basic/01/code/test.mod.o

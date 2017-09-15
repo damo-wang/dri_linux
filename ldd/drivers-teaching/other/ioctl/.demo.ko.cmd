@@ -1,0 +1,1 @@
+cmd_/home/wang/code/demo/drivers-teaching/other/ioctl/demo.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wang/code/demo/drivers-teaching/other/ioctl/demo.ko /home/wang/code/demo/drivers-teaching/other/ioctl/demo.o /home/wang/code/demo/drivers-teaching/other/ioctl/demo.mod.o

@@ -1,0 +1,7 @@
+CC = /usr/local/arm/4.2.2-eabi/usr/bin/arm-linux-gcc
+buzzerapp:buzzer_app.o
+	$(CC) -o buzzer_app buzzer_app.o
+buzzer_app.o:buzzer_app.c
+	$(CC) -c buzzer_app.c
+clean :
+	rm buzzer_app.o

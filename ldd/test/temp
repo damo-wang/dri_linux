@@ -1,0 +1,12 @@
+1.
+头文件 #include <linux/cdev.h>
+函数名称 cdev_add
+功能 将cdev模块添加到系统中
+使用方法 int cdev_add(struct cdev *cdev，dev_id devno, unsigned int,count)
+参数解释:
+	cdev,要加载的模块结构体
+	devno,设备号
+	count,一次加载的设备个数
+返回值:表示函数运行结果，0为正常，非零为错误。
+
+
